@@ -27,8 +27,8 @@ jobs:
           config_timezone: Africa/Cairo
           config_display: large
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
