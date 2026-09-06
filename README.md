@@ -20,7 +20,7 @@ I work across product and engineering, with a focus on clear user experiences, m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,vue,vite,pinia,vuetify,nodejs,python,sass,git,github,vercel&perline=12" alt="TypeScript, JavaScript, Vue, Vite, Pinia, Vuetify, Node.js, Python, Sass, Git, GitHub and Vercel" />
+<img src="https://skillicons.dev/icons?i=ts,js,vue,vite,pinia,vuetify,nodejs,python,git,github,vercel&perline=12" alt="TypeScript, JavaScript, Vue, Vite, Pinia, Vuetify, Node.js, Python, Git, GitHub and Vercel" />
 
 </div>
 
